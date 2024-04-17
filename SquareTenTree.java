@@ -16,7 +16,7 @@ public class Solution {
         while(!multipliers.empty()) {
             BigInteger q = multipliers.peek();
             BigInteger q2 = q.compareTo(BigInteger.ONE) == 0 ? BigInteger.valueOf(10) : q.multiply(q);
-            BigInteger distance = low.add(q2).divide(q2).multiply(q2).subtract(low).min(high.subtract(low));
+            BigInteger distance = low.add(q2).divide(q2).multiply(q2).min(high).subtract(low);
             BigInteger step = distance.mod(q2).divide(q);
             low = low.add(step.multiply(q));
             if(step.compareTo(BigInteger.ZERO) > 0) {
