@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Kitty {
+public class Solution {
     final static long N = 1_000_000_007;
     final static int K = 200_001;
     static long[] depth = new long[K];
