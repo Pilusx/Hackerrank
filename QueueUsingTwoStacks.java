@@ -4,8 +4,8 @@ import java.util.*;
 
 public class Solution {
     static class Queue<T> {
-        public Stack<T> stack1;
-        public Stack<T> stack2;
+        private Stack<T> stack1;
+        private Stack<T> stack2;
         public Queue() {
             stack1 = new Stack<T>();
             stack2 = new Stack<T>();
@@ -13,19 +13,20 @@ public class Solution {
         public void enqueue(T x) {
             stack1.push(x);
         }
-        
-        public void move() {
-            while(!stack1.empty()) {
-                stack2.push(stack1.peek());
-                stack1.pop();
+        private void move() {
+            if(stack2.empty()) {
+                while(!stack1.empty()) {
+                    stack2.push(stack1.peek());
+                    stack1.pop();
+                }
             }
         }
         public void dequeue() {
-            if(stack2.empty()) move();
+            move();
             if(!stack2.empty()) stack2.pop();
         }
         public T peek() {
-            if(stack2.empty()) move();
+            move();
             return stack2.peek();
         }
     }
