@@ -6,6 +6,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Array pairs](https://www.hackerrank.com/challenges/array-pairs/problem) | 100 |
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
+| [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
