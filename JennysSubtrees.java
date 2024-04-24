@@ -15,6 +15,7 @@ class Tree implements Comparable<Tree> {
     boolean sorted = false;
     boolean hashed = false;
     int hash = 0;
+    int depth = 0;
     final static int N = 1_000_000_007;
     final static int P = 31;
     
@@ -36,6 +37,12 @@ class Tree implements Comparable<Tree> {
             hashed = true;
         }
         return hash;
+    }
+    
+    public boolean equals(Object other) {
+        if(!(other instanceof Tree)) return false;
+        if(hashCode() != other.hashCode()) return false;
+        return compareTo((Tree)other) == 0;
     }
     
     public int compareTo(Tree other) {
@@ -157,7 +164,7 @@ class Result {
             edges2.get(v).add(u);
         }
         
-        Set<Tree> differentTrees = new TreeSet<>();
+        Set<Tree> differentTrees = new HashSet<>();
         for(int i = 1; i <= n; i++) {
             Tree tree = search(i, n, r, edges2);
             // System.out.println(String.format("%3d", i) + " " + tree + " " + tree.hashCode());
