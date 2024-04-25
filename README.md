@@ -13,6 +13,6 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
-| [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 46 |
+| [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Swap nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | 40 |
 | [Tree: top view](https://www.hackerrank.com/challenges/tree-top-view/problem) | 20 |
