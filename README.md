@@ -9,6 +9,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
+| [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 46 |
