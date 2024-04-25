@@ -5,6 +5,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Array manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 |
 | [Array pairs](https://www.hackerrank.com/challenges/array-pairs/problem) | 100 |
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
+| [Balanced trees](https://www.hackerrank.com/challenges/array-and-simple-queries/problem) | 80 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
