@@ -15,6 +15,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
 | [Self balancing tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem) | 50 |
+| [Sherlock and anagrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-anagrams/problem) | 100 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Swap nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | 40 |
 | [Tree: top view](https://www.hackerrank.com/challenges/tree-top-view/problem) | 20 |
