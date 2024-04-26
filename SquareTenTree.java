@@ -70,7 +70,7 @@ class BigInt implements Comparable<BigInt> {
     // Only modulo 10^k is supported
     BigInt mod(BigInt other) {
         int k = other.value.length() - 1;
-        if(value.length() <= k) return this;
+        if(value.length() <= k) return new BigInt(value);
         return new BigInt(value.substring(value.length() - k)).shorten();
     }
  
