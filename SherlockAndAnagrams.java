@@ -23,8 +23,6 @@ class Counter<T> {
 }
 
 class Signature {
-    final static int N = 1_000_000_007;
-    final static int P = 31;
     int[] sig = new int[26];
     Signature(String s) {
         for(char c : s.toCharArray()) {
