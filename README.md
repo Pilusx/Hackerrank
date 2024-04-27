@@ -9,6 +9,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
+| [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
