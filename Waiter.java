@@ -15,8 +15,6 @@ class PrimesSieve {
     boolean[] sieve = new boolean[K];
     List<Integer> primes = new ArrayList<>();
     PrimesSieve() {
-        sieve[0] = false;
-        sieve[1] = false;
         Arrays.fill(sieve, true);
         for(int i = 2; i < K; i++) {
             if(sieve[i]) {
