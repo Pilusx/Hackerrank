@@ -20,3 +20,4 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Swap nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | 40 |
 | [Tree: top view](https://www.hackerrank.com/challenges/tree-top-view/problem) | 20 |
+| [Waiter](https://www.hackerrank.com/challenges/three-month-preparation-kit-waiter/problem) | 100 |
