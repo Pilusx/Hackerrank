@@ -39,8 +39,7 @@
         return temp;
     }
 
-	static Node insert(Node root,int val)
-    {
+    static Node insert(Node root,int val) {
         Node node;
         if(root == null) {
             node = new Node();
