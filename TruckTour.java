@@ -22,7 +22,10 @@ test:   for(int i = 0; i < petrolpumps.size(); i++) {
             int petrol = 0;
             for(int j = i; j < petrolpumps.size(); j++) {
                 petrol += petrolpumps.get(j).get(0) - petrolpumps.get(j).get(1);
-                if(petrol < 0) continue test;
+                if(petrol < 0) {
+                    i = j;
+                    continue test;
+                }
             }
             for(int j = 0; j < i; j++) {
                 petrol += petrolpumps.get(j).get(0) - petrolpumps.get(j).get(1);
