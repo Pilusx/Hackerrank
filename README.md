@@ -8,6 +8,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Balanced brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | 25 |
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
+| [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
