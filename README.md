@@ -22,6 +22,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
 | [Swap nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | 40 |
 | [The coin change problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-coin-change/problem) | 100 |
+| [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |
 | [Tree: top view](https://www.hackerrank.com/challenges/tree-top-view/problem) | 20 |
 | [Two characters](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-characters/problem) | 100 |
 | [Waiter](https://www.hackerrank.com/challenges/three-month-preparation-kit-waiter/problem) | 100 |
