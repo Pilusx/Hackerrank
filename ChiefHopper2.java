@@ -20,11 +20,9 @@ class Result {
      */
      
     public static boolean simulate(List<Integer> arr, int energy) {
-        BigInteger e = BigInteger.valueOf(energy);
         for(int height : arr) {
-            e = e.multiply(BigInteger.valueOf(2))
-                 .subtract(BigInteger.valueOf(height));
-            if(e.compareTo(BigInteger.ZERO) < 0) return false;
+            energy = Math.min(2 * energy - height, 100_000);
+            if(energy < 0) return false;
         }
         return true;
     }
@@ -45,7 +43,6 @@ class Result {
 
     public static int chiefHopper(List<Integer> arr) {
         return binarySearch(1, 100_000, arr, Result::simulate);
-
     }
 
 }
