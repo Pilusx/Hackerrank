@@ -20,21 +20,22 @@ class Result {
      */
 
     public static long largestRectangle(List<Integer> h) {
-        TreeMap<Integer, Integer> map = new TreeMap<>();
+        Stack<Map.Entry<Integer, Integer>> stack = new Stack<>();
         int pos = 0;
         long result = 0;
         for(int n : h) {
             int lastPos = pos;
-            while(!map.isEmpty() && n < map.lastKey()) {
-                Map.Entry<Integer,Integer> entry = map.pollLastEntry();
+            while(!stack.isEmpty() && n < stack.peek().getKey()) {
+                Map.Entry<Integer,Integer> entry = stack.pop();
                 lastPos = entry.getValue();
                 result = Math.max(result, (long)entry.getKey() * (pos - entry.getValue()));
             }
-            if(map.isEmpty() || n > map.lastKey()) map.put(n, lastPos);
+            if(stack.isEmpty() || n > stack.peek().getKey()) 
+                stack.add(new AbstractMap.SimpleEntry<>(n, lastPos));
             pos++;
         }
-        while(!map.isEmpty()) {
-            Map.Entry<Integer,Integer> entry = map.pollLastEntry();
+        while(!stack.isEmpty()) {
+            Map.Entry<Integer,Integer> entry = stack.pop();
             result = Math.max(result, (long)entry.getKey() * (pos - entry.getValue()));
         }
         return result;
