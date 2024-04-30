@@ -28,3 +28,4 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Truck tour](https://www.hackerrank.com/challenges/truck-tour/problem) | 50 |
 | [Two characters](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-characters/problem) | 100 |
 | [Waiter](https://www.hackerrank.com/challenges/three-month-preparation-kit-waiter/problem) | 100 |
+| [Weighted uniform strings](https://www.hackerrank.com/challenges/three-month-preparation-kit-weighted-uniform-string/problem) | 100 |
