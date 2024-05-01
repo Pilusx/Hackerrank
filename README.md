@@ -19,6 +19,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
 | [Largest rectangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-largest-rectangle/problem) | 100 |
+| [Lily's homework](https://www.hackerrank.com/challenges/three-month-preparation-kit-lilys-homework/problem) | 100 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
 | [Median updates](https://www.hackerrank.com/challenges/median/problem) | 70 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
