@@ -55,19 +55,16 @@ class Result {
                     changed[i] = changed[tab.length - 1 - i] = true;
                 } else if(i != tab.length - i - 1 
                           &&(changed[i] || changed[tab.length - 1 - i]) 
-                          && k >= 1 
-                          && tab[i] != 9) {
+                          && k >= 1) {
                     k--;
                     tab[i] = tab[tab.length -1 - i] = 9;
                     changed[i] = changed[tab.length - 1 - i] = true;
                 } else if(i == tab.length - i - 1) {
-                    if(tab[i] != 9) {
-                        if(changed[i]) {
-                            tab[i] = 9;
-                        } else if(k >= 1) {
-                            tab[i] = 9;
-                            changed[i] = true;
-                        }
+                    if(changed[i]) {
+                        tab[i] = 9;
+                    } else if(k >= 1) {
+                        tab[i] = 9;
+                        changed[i] = true;
                     }
                 }   
             }
