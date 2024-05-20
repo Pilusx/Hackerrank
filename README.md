@@ -25,6 +25,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Lily's homework](https://www.hackerrank.com/challenges/three-month-preparation-kit-lilys-homework/problem) | 100 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
 | [Median updates](https://www.hackerrank.com/challenges/median/problem) | 70 |
+| [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
