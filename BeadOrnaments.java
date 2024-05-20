@@ -29,13 +29,13 @@ class Result {
     
     private static int pow(int x, int n) {
         int temp = x;
-        long result = 1;
+        int result = 1;
         while(n > 0) {
-            if(n % 2 == 1) result = multiply((int)result, temp);
+            if(n % 2 == 1) result = multiply(result, temp);
             temp = multiply(temp, temp);
             n /= 2;
         }
-        return (int)result;
+        return result;
     }
     
     private static int cayleys(int n) {
