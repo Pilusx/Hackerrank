@@ -13,6 +13,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Chief hopper](https://www.hackerrank.com/challenges/three-month-preparation-kit-chief-hopper/problem) | 100 |
 | [Common child](https://www.hackerrank.com/challenges/three-month-preparation-kit-common-child/problem) | 100 |
 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph/problem) | 50 |
+| [Contacts](https://www.hackerrank.com/challenges/three-month-preparation-kit-contacts/problem) | 100 |
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Find the running median](https://www.hackerrank.com/challenges/three-month-preparation-kit-find-the-running-median/problem) | 100 |
 | [Floyd: City of blinding lights](https://www.hackerrank.com/challenges/three-month-preparation-kit-floyd-city-of-blinding-lights/problem) | 100 |
