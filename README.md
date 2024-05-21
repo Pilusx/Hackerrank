@@ -33,6 +33,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
+| [Roads and libraries](https://www.hackerrank.com/challenges/three-month-preparation-kit-torque-and-development/problem) | 100 |
 | [Self balancing tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem) | 50 |
 | [Sherlock and anagrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-anagrams/problem) | 100 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
