@@ -11,25 +11,20 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 class Entry implements Cloneable {
-    final int[] ps = new int[]{31, 37, 41, 43};
-    final int P = 100_000_007;
-    Stack<Integer>[] stacks = new Stack[4];
+    static final int p = 31;
+    static final int P = 100_000_007;
+    int[] stacks;
     int hash = -1;
     
-    Entry(Stack<Integer>[] stacks) {
+    Entry(int[] stacks) {
         assert(stacks.length == 4);
-        this.stacks = new Stack[4];
-        for(int i = 0; i < 4; i++) {
-            this.stacks[i] = (Stack<Integer>) stacks[i].clone();
-        }
+        this.stacks = stacks.clone();
     }
     
     Entry(List<Integer> list) {
-        for(int i = 0; i < 4; i++)
-            stacks[i] = new Stack<>();
-
+        stacks = new int[4];
         for(int i = list.size() - 1; i >= 0; i--) 
-            stacks[list.get(i) - 1].add(i);
+            stacks[list.get(i) - 1] += (1 << i);
     }
     
     @Override
@@ -39,7 +34,7 @@ class Entry implements Cloneable {
         if(hashCode() != obj.hashCode()) return false;
         Entry o = (Entry) obj;
         for(int i = 0; i < 4; i++) {
-            if(!stacks[i].equals(o.stacks[i])) 
+            if(!(stacks[i] == o.stacks[i])) 
                 return false;
         }
         return true;
@@ -49,15 +44,11 @@ class Entry implements Cloneable {
     public int hashCode() {
         if(hash != -1) return hash;
         long result = 0;
+        long temp = 1;
         for(int i = 0; i < 4; i++) {
-            long temp = 1;
-            Stack<Integer> stack = stacks[i];
-            for(int x : stack) {
-                result += temp * x;
-                result %= P;
-                temp = (temp * ps[i]);
-                temp %= P;
-            }
+            result += temp * stacks[i];
+            result %= P;
+            temp = (temp * p) % P;
         }
         return hash = (int) result;
     }
@@ -76,12 +67,14 @@ class Entry implements Cloneable {
         List<Entry> result = new ArrayList<Entry>();
         
         for(int i = 0; i < 4; i++) {
-            if(stacks[i].empty()) continue;
+            if(stacks[i] == 0) continue;
             for(int j = 0; j < 4; j++) {
                 if(i == j) continue;
-                if(stacks[j].empty() || stacks[i].peek() < stacks[j].peek()) {
+                int x = Integer.lowestOneBit(stacks[i]);
+                if(stacks[j] == 0 || x < Integer.lowestOneBit(stacks[j])) {
                     Entry e = (Entry)clone();
-                    e.stacks[j].add(e.stacks[i].pop());
+                    e.stacks[i] -= x;
+                    e.stacks[j] += x;
                     result.add(e);
                 }
             }
