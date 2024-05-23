@@ -23,6 +23,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
+| [Jack goes to rapture](https://www.hackerrank.com/challenges/three-month-preparation-kit-jack-goes-to-rapture/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
 | [Journey to the moon](https://www.hackerrank.com/challenges/three-month-preparation-kit-journey-to-the-moon/problem) | 100 |
