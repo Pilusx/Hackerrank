@@ -41,7 +41,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Roads and libraries](https://www.hackerrank.com/challenges/three-month-preparation-kit-torque-and-development/problem) | 100 |
 | [Self balancing tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem) | 50 |
 | [Sherlock and anagrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-anagrams/problem) | 100 |
-| [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 45 |
+| [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 100 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
 | [Swap nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | 40 |
