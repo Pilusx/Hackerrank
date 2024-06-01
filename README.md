@@ -28,6 +28,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
 | [Journey to the moon](https://www.hackerrank.com/challenges/three-month-preparation-kit-journey-to-the-moon/problem) | 100 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
+| [Kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem) | 80 |
 | [Largest rectangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-largest-rectangle/problem) | 100 |
 | [Lily's homework](https://www.hackerrank.com/challenges/three-month-preparation-kit-lilys-homework/problem) | 100 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
