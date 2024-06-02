@@ -48,7 +48,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | 65 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
-| [Super maximum cost queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem) | 54 |
+| [Super maximum cost queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem) | 60 |
 | [Swap nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | 40 |
 | [The coin change problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-coin-change/problem) | 100 |
 | [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |

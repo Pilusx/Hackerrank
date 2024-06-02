@@ -66,16 +66,16 @@ class Result {
             parent[i] = i;
         Arrays.fill(size, 1);
 
-        Map<Integer, Integer> paths = new TreeMap<>();
+        Map<Integer, Long> paths = new TreeMap<>();
         for(Edge e : edges) {
-            paths.merge(e.w, size[find(e.u)] * size[find(e.v)], Integer::sum);
+            paths.merge(e.w, (long)size[find(e.u)] * size[find(e.v)], Long::sum);
             union(e.u, e.v);
         }
         
         TreeMap<Integer, Long> sums = new TreeMap<>();
         long sum = 0;
         sums.put(0, 0L);
-        for(Map.Entry<Integer, Integer> entry : paths.entrySet()) {
+        for(Map.Entry<Integer, Long> entry : paths.entrySet()) {
             sum += entry.getValue();
             sums.put(entry.getKey(), sum);
         }
