@@ -21,6 +21,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Find the running median](https://www.hackerrank.com/challenges/three-month-preparation-kit-find-the-running-median/problem) | 100 |
 | [Floyd: City of blinding lights](https://www.hackerrank.com/challenges/three-month-preparation-kit-floyd-city-of-blinding-lights/problem) | 100 |
 | [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
+| [Game of two stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) | 30 |
 | [Gena playing hanoi](https://www.hackerrank.com/challenges/three-month-preparation-kit-gena/problem) | 100 |
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
