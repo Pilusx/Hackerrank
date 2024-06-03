@@ -29,6 +29,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
 | [Journey to the moon](https://www.hackerrank.com/challenges/three-month-preparation-kit-journey-to-the-moon/problem) | 100 |
+| [Kindergarten adventrues](https://www.hackerrank.com/challenges/kindergarten-adventures/problem) | 30 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
 | [Kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem) | 80 |
 | [Largest rectangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-largest-rectangle/problem) | 100 |
