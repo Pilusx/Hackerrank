@@ -9,6 +9,7 @@ class IntervalTree {
     int[] data = new int[2 * K];
     
     void update(int i, int j, int v) {
+        assert(i < j);
         i = K + i;
         j = K + j;
         
