@@ -21,7 +21,6 @@ class Result {
         Stack<Integer> decreasing = new Stack<>();
         Stack<Integer> increasing = new Stack<>();
         int[] depth = new int[p.size()];
-        Arrays.fill(depth, Integer.MAX_VALUE);
         
         for(int i = 0; i < p.size(); i++) {
             int x = p.get(i);
