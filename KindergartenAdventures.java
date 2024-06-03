@@ -16,6 +16,7 @@ class IntervalTree {
         data[j] += v;
         
         while(i > 1) {
+            if(i + 1 == j) break;
             if(i % 2 == 0) data[i+1] += v;
             if(j % 2 == 1) data[j-1] += v;
             i /= 2;
