@@ -18,15 +18,16 @@ class Result {
      * The function accepts INTEGER_ARRAY p as parameter.
      */
     public static int poisonousPlants(List<Integer> p) {
-        Stack<Integer> decreasing = new Stack<>();
+        int minIndex = 0;
         Stack<Integer> increasing = new Stack<>();
         int[] depth = new int[p.size()];
+        depth[0] = 0;
         
-        for(int i = 0; i < p.size(); i++) {
+        for(int i = 1; i < p.size(); i++) {
             int x = p.get(i);
-            if(decreasing.isEmpty() || x <= p.get(decreasing.peek())) {
+            if(x <= p.get(minIndex)) {
                 increasing.clear();
-                decreasing.add(i);
+                minIndex = i;
                 depth[i] = 0;
             } else {
                 int time = 1;
