@@ -40,6 +40,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
 | [Minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) | 80 |
 | [Minimum loss 1](https://www.hackerrank.com/challenges/three-month-preparation-kit-minimum-loss/problem) | 100 |
+| [Mr. X and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem) | 50 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
