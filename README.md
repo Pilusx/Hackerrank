@@ -30,6 +30,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Jack goes to rapture](https://www.hackerrank.com/challenges/three-month-preparation-kit-jack-goes-to-rapture/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
+| [Jim and the skyscrapers](https://www.hackerrank.com/challenges/jim-and-the-skyscrapers/problem) | 60 |
 | [Journey to the moon](https://www.hackerrank.com/challenges/three-month-preparation-kit-journey-to-the-moon/problem) | 100 |
 | [Kindergarten adventrues](https://www.hackerrank.com/challenges/kindergarten-adventures/problem) | 30 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
