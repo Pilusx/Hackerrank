@@ -16,6 +16,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph/problem) | 50 |
 | [Contacts](https://www.hackerrank.com/challenges/three-month-preparation-kit-contacts/problem) | 100 |
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
+| [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Find the running median](https://www.hackerrank.com/challenges/three-month-preparation-kit-find-the-running-median/problem) | 100 |
