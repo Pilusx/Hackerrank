@@ -44,6 +44,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Minimum loss 1](https://www.hackerrank.com/challenges/three-month-preparation-kit-minimum-loss/problem) | 100 |
 | [Mr. X and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem) | 50 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
+| [Palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem) | 80 |
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
