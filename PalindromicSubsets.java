@@ -120,7 +120,7 @@ class SubsetTree {
         return left;
     }
     
-    int pow(int x, int p) {
+    int power(int x, int p) {
         long result = 1;
         long temp = x;
         while(p > 0) {
@@ -136,15 +136,12 @@ class SubsetTree {
         long result, even = 1;
         
         for(int x : f) {
-            if(x > 0) even = (even * pow(2, x-1)) % P;
+            if(x > 0) even = (even * power(2, x-1)) % P;
         }
         result = even - 1;
 
         for(int x : f) {
-            if(x > 0) {
-                result += (((even * pow(2, P - x)) % P) * pow(2, x-1)) % P;
-                result %= P;
-            }
+            if(x > 0) result = (result + even) % P;
         }
         
         return (int)result;
