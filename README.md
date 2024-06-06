@@ -47,6 +47,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem) | 80 |
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
+| [Polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem) | 60 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
