@@ -54,6 +54,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
 | [Roads and libraries](https://www.hackerrank.com/challenges/three-month-preparation-kit-torque-and-development/problem) | 100 |
 | [Self balancing tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem) | 50 |
+| [Self driving bus](https://www.hackerrank.com/challenges/self-driving-bus/problem) | 52 |
 | [Sherlock and anagrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-anagrams/problem) | 100 |
 | [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 100 |
 | [Simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | 65 |
