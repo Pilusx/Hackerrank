@@ -22,6 +22,7 @@ class Result {
     static void union(int u, int v) {
         int pu = find(u);
         int pv = find(v);
+        if(pu == pv) return;
         if(size[pu] > size[pv]) {
             parent[pv] = pu;
             size[pu] += size[pv];
