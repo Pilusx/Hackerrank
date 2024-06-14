@@ -8,7 +8,6 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Array pairs](https://www.hackerrank.com/challenges/array-pairs/problem) | 100 |
 | [Balanced brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | 25 |
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
-| [Bead ornaments](https://www.hackerrank.com/challenges/three-month-preparation-kit-beadornaments/problem) | 100 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
 | [Chief hopper](https://www.hackerrank.com/challenges/three-month-preparation-kit-chief-hopper/problem) | 100 |
