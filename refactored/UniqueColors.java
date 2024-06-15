@@ -1,5 +1,3 @@
-package refactored;
-
 import java.util.AbstractMap;
 import java.util.ArrayList;
 import java.util.List;
@@ -43,9 +41,9 @@ public class UniqueColors {
 
     static int getSize(int n, int parent) {
     	return 1 + edges[n].stream()
-    					   .filter(e -> e.getKey() != parent)
-    					   .mapToInt(Map.Entry::getValue)
-    					   .sum();
+                           .filter(e -> e.getKey() != parent)
+                           .mapToInt(Map.Entry::getValue)
+                           .sum();
     }
     
     static void dfs2(int n, int parent, int s) {
