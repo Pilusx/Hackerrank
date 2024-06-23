@@ -11,6 +11,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
 | [Chief hopper](https://www.hackerrank.com/challenges/three-month-preparation-kit-chief-hopper/problem) | 100 |
+| [Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | 20 |
 | [Common child](https://www.hackerrank.com/challenges/three-month-preparation-kit-common-child/problem) | 100 |
 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph/problem) | 50 |
 | [Contacts](https://www.hackerrank.com/challenges/three-month-preparation-kit-contacts/problem) | 100 |
