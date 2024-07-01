@@ -18,6 +18,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Costly intervals](https://www.hackerrank.com/challenges/costly-intervals/problem) | 45 |
 | [Counting on a tree](https://www.hackerrank.com/challenges/counting-on-a-tree/problem) | 44 |
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
+| [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
 | [Electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 15 |
