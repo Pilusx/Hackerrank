@@ -50,7 +50,6 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Mr. X and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem) | 50 |
 | [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | 20 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
-|
 | [Palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem) | 80 |
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem) | 60 |
