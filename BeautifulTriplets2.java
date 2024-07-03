@@ -23,15 +23,17 @@ class Result {
 
     public static int beautifulTriplets(int d, List<Integer> arr) {
         Map<Integer, Integer> left = new HashMap<>(), right = new HashMap<>();
-        for(int x : arr) right.merge(x, 1, Integer::sum);
-        
-        int result = 0;
-        for(int x : arr) {
-            right.merge(x, -1, Integer::sum);
-            result += left.getOrDefault(x - d, 0) * right.getOrDefault(x+d, 0);    
-            left.merge(x, 1, Integer::sum);
+        for(int i = 0; i < arr.size(); i++) {
+            for(int j = i+1; j < arr.size(); j++) {
+                if(arr.get(j) - arr.get(i) == d) {
+                    left.merge(j, 1, Integer::sum);
+                    right.merge(i, 1, Integer::sum);
+                }
+            }
         }
-        
+        int result = 0;
+        for(Map.Entry<Integer, Integer> entry : left.entrySet())
+            result += entry.getValue() * right.getOrDefault(entry.getKey(), 0);
         return result;
     }
 
