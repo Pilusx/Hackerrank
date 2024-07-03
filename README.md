@@ -51,6 +51,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | 20 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem) | 80 |
+| [Organizing containers of balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | 30 |
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem) | 60 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
