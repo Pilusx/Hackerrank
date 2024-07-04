@@ -75,6 +75,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [The coin change problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-coin-change/problem) | 100 |
 | [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |
 | [The strange function](https://www.hackerrank.com/challenges/the-strange-function/problem) | 15 | 
+| [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | 25 |
 | [Tree: top view](https://www.hackerrank.com/challenges/tree-top-view/problem) | 20 |
 | [Truck tour](https://www.hackerrank.com/challenges/truck-tour/problem) | 50 |
 | [Two characters](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-characters/problem) | 100 |
