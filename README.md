@@ -45,6 +45,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem) | 80 |
 | [Largest rectangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-largest-rectangle/problem) | 100 |
 | [Lily's homework](https://www.hackerrank.com/challenges/three-month-preparation-kit-lilys-homework/problem) | 100 |
+| [Lisa's workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | 25 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
 | [Median updates](https://www.hackerrank.com/challenges/median/problem) | 70 |
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
