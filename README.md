@@ -2,6 +2,7 @@ This is a repository containing my solutions to Hackerrank problems.
 
 | Problem (Link) | Points |
 | --- | ---|
+| [3D surface area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | 30 |
 | [And xor or](https://www.hackerrank.com/challenges/and-xor-or/problem) | 70 |
 | [Array and simple queries](https://www.hackerrank.com/challenges/array-and-simple-queries/problem) | 80 |
 | [Array manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 |
