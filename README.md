@@ -33,6 +33,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Game of two stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) | 30 |
 | [Gena playing hanoi](https://www.hackerrank.com/challenges/three-month-preparation-kit-gena/problem) | 100 |
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
+| [Happy ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | 30 |
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
 | [Jack goes to rapture](https://www.hackerrank.com/challenges/three-month-preparation-kit-jack-goes-to-rapture/problem) | 100 |
