@@ -26,7 +26,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
 | [Electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 15 |
-| [Ema's supercomputer](https://www.hackerrank.com/challenges/two-pluses/submissions) | 40 |
+| [Ema's supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem) | 40 |
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | 30 |
 | [Find maximum index product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem) | 100 |
@@ -48,6 +48,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
 | [Kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem) | 80 |
 | [Largest rectangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-largest-rectangle/problem) | 100 |
+| [Larry's array](https://www.hackerrank.com/challenges/larrys-array/problem) | 40 |
 | [Lily's homework](https://www.hackerrank.com/challenges/three-month-preparation-kit-lilys-homework/problem) | 100 |
 | [Lisa's workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | 25 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
