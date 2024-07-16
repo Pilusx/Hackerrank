@@ -26,6 +26,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
 | [Electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 15 |
+| [Ema's supercomputer](https://www.hackerrank.com/challenges/two-pluses/submissions) | 40 |
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | 30 |
 | [Find maximum index product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem) | 100 |
