@@ -43,6 +43,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
 | [Insertion sort - part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | 30 |
+| [Insertion sort - part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | 30 |
 | [Jack goes to rapture](https://www.hackerrank.com/challenges/three-month-preparation-kit-jack-goes-to-rapture/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
