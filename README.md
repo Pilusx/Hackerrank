@@ -41,6 +41,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
 | [Funny string](https://www.hackerrank.com/challenges/funny-string/problem) | 25 |
 | [Game of two stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) | 30 |
+| [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | 20 |
 | [Gena playing hanoi](https://www.hackerrank.com/challenges/three-month-preparation-kit-gena/problem) | 100 |
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
 | [Happy ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | 30 |
