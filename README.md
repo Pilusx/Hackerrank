@@ -13,6 +13,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
+[ [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
 | [Chief hopper](https://www.hackerrank.com/challenges/three-month-preparation-kit-chief-hopper/problem) | 100 |
