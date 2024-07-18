@@ -72,6 +72,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem) | 60 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
+| [Running time of algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | 30 |
 | [Queen's attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | 30 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
