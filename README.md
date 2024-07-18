@@ -41,6 +41,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Gena playing hanoi](https://www.hackerrank.com/challenges/three-month-preparation-kit-gena/problem) | 100 |
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
 | [Happy ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | 30 |
+| [Hackerrank in a string](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | 20 |
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
 | [Insertion sort - part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | 30 |
