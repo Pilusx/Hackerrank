@@ -20,9 +20,9 @@ class Result {
      */
 
     public static String funnyString(String s) {
-        String s2 = new StringBuilder(s).reverse().toString();
+        int n = s.length();
         for(int i = 0; i + 1 < s.length(); i++) {
-            if(Math.abs(s.charAt(i) - s.charAt(i+1)) != Math.abs(s2.charAt(i) - s2.charAt(i+1))) 
+            if(Math.abs(s.charAt(i) - s.charAt(i+1)) != Math.abs(s.charAt(n-i-1) - s.charAt(n-i-2))) 
                 return "Not Funny";
         }
         return "Funny";
