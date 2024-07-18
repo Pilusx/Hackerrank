@@ -24,6 +24,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Contacts](https://www.hackerrank.com/challenges/three-month-preparation-kit-contacts/problem) | 100 |
 | [Costly intervals](https://www.hackerrank.com/challenges/costly-intervals/problem) | 45 |
 | [Counting on a tree](https://www.hackerrank.com/challenges/counting-on-a-tree/problem) | 44 |
+| [Counting sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | 30 |
 | [Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?) | 15 |
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
