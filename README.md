@@ -13,7 +13,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
-[ [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
+| [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
 | [Chief hopper](https://www.hackerrank.com/challenges/three-month-preparation-kit-chief-hopper/problem) | 100 |
@@ -41,6 +41,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Happy ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | 30 |
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
+| [Insertion sort - part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | 30 |
 | [Jack goes to rapture](https://www.hackerrank.com/challenges/three-month-preparation-kit-jack-goes-to-rapture/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
