@@ -77,6 +77,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Queen's attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | 30 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
+| [Quick sort 1 - partition](https://www.hackerrank.com/challenges/quicksort1/problem) | 10 |
 | [Roads and libraries](https://www.hackerrank.com/challenges/three-month-preparation-kit-torque-and-development/problem) | 100 |
 | [Self balancing tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem) | 50 |
 | [Self driving bus](https://www.hackerrank.com/challenges/self-driving-bus/problem) | 52 |
