@@ -13,26 +13,19 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     /*
-     * Complete the 'countingValleys' function below.
+     * Complete the 'marsExploration' function below.
      *
      * The function is expected to return an INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER steps
-     *  2. STRING path
+     * The function accepts STRING s as parameter.
      */
 
-    public static int countingValleys(int steps, String path) {
+    public static int marsExploration(String s) {
     // Write your code here
-        int depth = 0;
-        int result = 0;
-        for(char c : path.toCharArray()) {
-            if(c == 'U') {
-                depth++;
-                if(depth == 0) result++;
-            }
-            else depth--;
+        int count = 0;
+        for(int i = 0; i < s.length(); i++) {
+            if(!(s.charAt(i) == (i % 3 == 1 ? 'O' : 'S'))) count++;
         }
-        return result;
+        return count;
     }
 
 }
@@ -42,11 +35,9 @@ public class Solution {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
-        int steps = Integer.parseInt(bufferedReader.readLine().trim());
+        String s = bufferedReader.readLine();
 
-        String path = bufferedReader.readLine();
-
-        int result = Result.countingValleys(steps, path);
+        int result = Result.marsExploration(s);
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
