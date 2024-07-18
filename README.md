@@ -5,6 +5,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [3D surface area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | 30 |
 | [Absolute permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | 40 |
 | [Almost sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | 50 |
+| [Alternating characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | 20 |
 | [And xor or](https://www.hackerrank.com/challenges/and-xor-or/problem) | 70 |
 | [Array and simple queries](https://www.hackerrank.com/challenges/array-and-simple-queries/problem) | 80 |
 | [Array manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 |
