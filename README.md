@@ -12,6 +12,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Array pairs](https://www.hackerrank.com/challenges/array-pairs/problem) | 100 |
 | [Balanced brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | 25 |
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
+| [Beautiful binary string](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | 20 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
 | [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
