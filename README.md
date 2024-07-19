@@ -32,7 +32,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?) | 15 |
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
-| [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 42 |
+| [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 50 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
 | [Electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 15 |

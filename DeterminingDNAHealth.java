@@ -85,11 +85,8 @@ class AhoCorasick {
                     break;
                 }
             }
-            if(!done) {
-                int u = nodes.get(0).g[n.lastChar-'a'];
-                if(u == 0) n.fail = 0;
-                else n.fail = u;
-            }
+            if(!done)
+                n.fail = nodes.get(0).g[n.lastChar-'a'];
         }
         
         for(Node n : nodes) n.preprocessHealth();
@@ -114,11 +111,8 @@ class AhoCorasick {
                         break;
                     }
                 }
-                if(!done) {
-                    int v = nodes.get(0).g[s.charAt(i)-'a'];
-                    if(v == 0) u = 0;
-                    else u = v;
-                }
+                if(!done)
+                    u = nodes.get(0).g[s.charAt(i)-'a'];
             }
             
             int match = u;
@@ -156,7 +150,7 @@ public class Solution {
 
         int s = Integer.parseInt(bufferedReader.readLine().trim());
 
-        long best = 0, worst = Integer.MAX_VALUE;
+        long best = 0, worst = Long.MAX_VALUE;
 
         for(int i = 0; i < s; i++) {
             try {
