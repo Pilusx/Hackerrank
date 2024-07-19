@@ -103,6 +103,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [The coin change problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-coin-change/problem) | 100 |
 | [The full counting sort](https://www.hackerrank.com/challenges/countingsort4/problem) | 40 |
 | [The grid search](https://www.hackerrank.com/challenges/the-grid-search/problem) | 30 |
+| [The love letter mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | 20 |
 | [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |
 | [The strange function](https://www.hackerrank.com/challenges/the-strange-function/problem) | 15 | 
 | [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | 25 |
