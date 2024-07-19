@@ -39,6 +39,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | 30 |
 | [Find maximum index product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem) | 100 |
+| [Find the median](https://www.hackerrank.com/challenges/find-the-median/problem) | 35 |
 | [Find the running median](https://www.hackerrank.com/challenges/three-month-preparation-kit-find-the-running-median/problem) | 100 |
 | [Floyd: City of blinding lights](https://www.hackerrank.com/challenges/three-month-preparation-kit-floyd-city-of-blinding-lights/problem) | 100 |
 | [Forming a magic square](https://www.hackerrank.com/challenges/three-month-preparation-kit-magic-square-forming/problem) | 100 |
