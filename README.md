@@ -53,6 +53,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Hackerrank in a string](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | 20 |
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
+| [Insertion sort advanced analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) | 50 |
 | [Insertion sort - part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | 30 |
 | [Insertion sort - part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | 30 |
 | [Jack goes to rapture](https://www.hackerrank.com/challenges/three-month-preparation-kit-jack-goes-to-rapture/problem) | 100 |
