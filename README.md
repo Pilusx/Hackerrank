@@ -6,6 +6,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Absolute permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | 40 |
 | [Almost sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | 50 |
 | [Alternating characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | 20 |
+| [Anagram](https://www.hackerrank.com/challenges/anagram/problem) | 25 | 
 | [And xor or](https://www.hackerrank.com/challenges/and-xor-or/problem) | 70 |
 | [Array and simple queries](https://www.hackerrank.com/challenges/array-and-simple-queries/problem) | 80 |
 | [Array manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 |
