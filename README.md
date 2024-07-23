@@ -104,6 +104,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | 65 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
+| [String construction](https://www.hackerrank.com/challenges/string-construction/problem) | 25 |
 | [Strong password](https://www.hackerrank.com/challenges/strong-password/problem) | 15 |
 | [Subsequence weighting](https://www.hackerrank.com/challenges/subsequence-weighting/problem) | 60 |
 | [Super maximum cost queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem) | 60 |
