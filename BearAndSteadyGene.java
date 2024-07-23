@@ -44,7 +44,7 @@ class Result {
         
         int[] diff = Arrays.copyOf(sum[n], 4);
         for(int i = 0; i < 4; i++) diff[i] -= n/4;
-        if(diff[0] == 0 && diff[1] == 0 && diff[2] == 0 && diff[3] == 0) return 0;
+        if(caterpillar(diff)) return 0;
         
         int i = 1, j = 1;
         while(i <= n) {
