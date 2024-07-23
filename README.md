@@ -70,6 +70,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Larry's array](https://www.hackerrank.com/challenges/larrys-array/problem) | 40 |
 | [Lily's homework](https://www.hackerrank.com/challenges/three-month-preparation-kit-lilys-homework/problem) | 100 |
 | [Lisa's workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | 25 |
+| [Making anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | 30 |
 | [Mars exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | 15 |
 | [Matrix layer rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | 80 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
