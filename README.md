@@ -13,6 +13,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Array pairs](https://www.hackerrank.com/challenges/array-pairs/problem) | 100 |
 | [Balanced brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | 25 |
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
+| [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) | 50 |
 | [Beautiful binary string](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | 20 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
