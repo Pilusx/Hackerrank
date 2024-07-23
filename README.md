@@ -75,6 +75,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Mars exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | 15 |
 | [Matrix layer rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | 80 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
+| [Maximum palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | 40 |
 | [Median updates](https://www.hackerrank.com/challenges/median/problem) | 70 |
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
 | [Minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) | 80 |
