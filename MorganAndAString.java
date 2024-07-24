@@ -54,19 +54,12 @@ class Result {
         List<String> A = split(a), B = split(b);
     
         int i = 0, j = 0;
-        String u = A.get(0), v = B.get(0);
         StringBuilder result = new StringBuilder();
         
         while(i < A.size() && j < B.size()) {
             int cmp = compare(A.subList(i, A.size()), B.subList(j, B.size()));
-            if(cmp <= 0) {
-                result.append(u);
-                if(++i < A.size()) u = A.get(i).toString();
-            }
-            else {
-                result.append(v);
-                if(++j < B.size()) v = B.get(j).toString();
-            }
+            if(cmp <= 0) result.append(A.get(i++));
+            else result.append(B.get(j++));
         }
         
         while(i < A.size()) result.append(A.get(i++));
