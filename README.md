@@ -81,6 +81,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
 | [Minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) | 80 |
 | [Minimum loss 1](https://www.hackerrank.com/challenges/three-month-preparation-kit-minimum-loss/problem) | 100 |
+| [Missing numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | 45 |
 | [Morgan and a string](https://www.hackerrank.com/challenges/morgan-and-a-string/problem) | 100 |
 | [Mr. X and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem) | 50 |
 | [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | 20 |
