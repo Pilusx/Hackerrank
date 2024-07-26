@@ -52,6 +52,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Game of two stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) | 30 |
 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | 20 |
 | [Gena playing hanoi](https://www.hackerrank.com/challenges/three-month-preparation-kit-gena/problem) | 100 |
+| [Gridland metro](https://www.hackerrank.com/challenges/gridland-metro/problem) | 25 |
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
 | [Happy ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | 30 |
 | [Hackerrank in a string](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | 20 |
