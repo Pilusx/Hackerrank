@@ -26,6 +26,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Closest numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | 35 |
 | [Common child](https://www.hackerrank.com/challenges/three-month-preparation-kit-common-child/problem) | 100 |
 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph/problem) | 50 |
+| [Connected cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) | 50 |
 | [Contacts](https://www.hackerrank.com/challenges/three-month-preparation-kit-contacts/problem) | 100 |
 | [Costly intervals](https://www.hackerrank.com/challenges/costly-intervals/problem) | 45 |
 | [Counting on a tree](https://www.hackerrank.com/challenges/counting-on-a-tree/problem) | 44 |
