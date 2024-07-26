@@ -79,6 +79,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Maximum palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | 40 |
 | [Median updates](https://www.hackerrank.com/challenges/median/problem) | 70 |
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
+| [Minimum absolute difference in an array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | 15 |
 | [Minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) | 80 |
 | [Minimum loss 1](https://www.hackerrank.com/challenges/three-month-preparation-kit-minimum-loss/problem) | 100 |
 | [Missing numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | 45 |
