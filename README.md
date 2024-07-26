@@ -90,6 +90,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | 20 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Organizing containers of balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | 30 |
+| [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | 50 |
 | [Palindrome index](https://www.hackerrank.com/challenges/palindrome-index/problem) | 25 |
 | [Palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem) | 80 |
 | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | 20 |
