@@ -2,6 +2,7 @@ This is a repository containing my solutions to Hackerrank problems.
 
 | Problem (Link) | Points |
 | --- | ---|
+| [2D array - ds](https://www.hackerrank.com/challenges/2d-array/problem) | 15 | 
 | [3D surface area](https://www.hackerrank.com/challenges/3d-surface-area/problem) | 30 |
 | [Absolute permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | 40 |
 | [Almost sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | 50 |
