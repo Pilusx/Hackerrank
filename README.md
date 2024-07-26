@@ -104,6 +104,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Separate the numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | 20 |
 | [Service lane](https://www.hackerrank.com/challenges/service-lane/problem) | 20 |
 | [Sherlock and anagrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-anagrams/problem) | 100 |
+| [Sherlock and array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | 40 |
 | [Sherlock and the valid string](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | 35 |
 | [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 100 |
 | [Simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | 65 |
