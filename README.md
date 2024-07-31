@@ -140,3 +140,4 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Unique colors](https://www.hackerrank.com/challenges/unique-colors/problem) | 7 |
 | [Waiter](https://www.hackerrank.com/challenges/three-month-preparation-kit-waiter/problem) | 100 |
 | [Weighted uniform strings](https://www.hackerrank.com/challenges/three-month-preparation-kit-weighted-uniform-string/problem) | 100 |
+| [Viral advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | 15 |
