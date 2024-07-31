@@ -17,6 +17,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) | 50 |
 | [Beautiful binary string](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | 20 |
+| [Beautiful quadruples](https://www.hackerrank.com/challenges/xor-quadruples/problem) | 50 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
 | [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
