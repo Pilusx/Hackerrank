@@ -21,6 +21,8 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
 | [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
+| [Binary search tree: insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | 20 |
+| [Binary search tree: lowerst common ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | 30 |
 | [Caesar cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | 15 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
@@ -118,6 +120,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | 5 |
 | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | 5 |
 | [Running time of algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | 30 |
+| [Qheap 1](https://www.hackerrank.com/challenges/qheap1/problem) | 25 |
 | [Queen's attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | 30 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
