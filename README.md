@@ -9,6 +9,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Alternating characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | 20 |
 | [Anagram](https://www.hackerrank.com/challenges/anagram/problem) | 25 | 
 | [And xor or](https://www.hackerrank.com/challenges/and-xor-or/problem) | 70 |
+| [Apple and orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | 10 |
 | [Array and simple queries](https://www.hackerrank.com/challenges/array-and-simple-queries/problem) | 80 |
 | [Array manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 |
 | [Array pairs](https://www.hackerrank.com/challenges/array-pairs/problem) | 100 |
@@ -20,11 +21,13 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Beautiful binary string](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | 20 |
 | [Beautiful quadruples](https://www.hackerrank.com/challenges/xor-quadruples/problem) | 50 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
+| [Between two sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | 10 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
 | [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
 | [Binary search tree: insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | 20 |
 | [Binary search tree: lowerst common ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | 30 |
 | [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 |
+| [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | 10 |
 | [Caesar cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | 15 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
@@ -50,6 +53,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 50 |
 | [Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
+| [Divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | 10 |
 | [Dynamic array](https://www.hackerrank.com/challenges/dynamic-array/problem) | 15 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
 | [Electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 15 |
@@ -69,6 +73,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | 20 |
 | [Gena playing hanoi](https://www.hackerrank.com/challenges/three-month-preparation-kit-gena/problem) | 100 |
 | [Get node value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) | 5 |
+| [Grading students](https://www.hackerrank.com/challenges/grading/problem) | 10 |
 | [Gridland metro](https://www.hackerrank.com/challenges/gridland-metro/problem) | 25 |
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
 | [Happy ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | 30 |
@@ -114,6 +119,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Mr. X and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem) | 50 |
 | [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | 20 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
+| [Number line jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | 10 |
 | [Organizing containers of balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem) | 30 |
 | [Pairs](https://www.hackerrank.com/challenges/pairs/problem) | 50 |
 | [Palindrome index](https://www.hackerrank.com/challenges/palindrome-index/problem) | 25 |
@@ -151,6 +157,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
 | [String construction](https://www.hackerrank.com/challenges/string-construction/problem) | 25 |
 | [Strong password](https://www.hackerrank.com/challenges/strong-password/problem) | 15 |
+| [Subarray division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | 10 |
 | [Subsequence weighting](https://www.hackerrank.com/challenges/subsequence-weighting/problem) | 60 |
 | [Super maximum cost queries](https://www.hackerrank.com/challenges/maximum-cost-queries/problem) | 60 |
 | [Swap nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) | 40 |
