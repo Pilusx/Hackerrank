@@ -115,6 +115,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
 | [Print in reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | 5 |
 | [Print the elements of a linked list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | 5 |
+| [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | 5 |
 | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | 5 |
 | [Running time of algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | 30 |
 | [Queen's attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | 30 |
@@ -145,6 +146,11 @@ This is a repository containing my solutions to Hackerrank problems.
 | [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |
 | [The strange function](https://www.hackerrank.com/challenges/the-strange-function/problem) | 15 | 
 | [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | 25 |
+| [Tree: height of a binary tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | 10 |
+| [Tree: level order traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | 20 |
+| [Tree: inorder traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | 10 |
+| [Tree: preorder traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) | 10 |
+| [Tree: postorder traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem) | 10 |
 | [Tree: top view](https://www.hackerrank.com/challenges/tree-top-view/problem) | 20 |
 | [Truck tour](https://www.hackerrank.com/challenges/truck-tour/problem) | 50 |
 | [Two characters](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-characters/problem) | 100 |
