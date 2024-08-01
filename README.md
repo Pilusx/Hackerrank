@@ -78,6 +78,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Insertion sort advanced analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) | 50 |
 | [Insertion sort - part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | 30 |
 | [Insertion sort - part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | 30 |
+| [Is this a binary search tree?](https://www.hackerrank.com/challenges/is-binary-search-tree/problem) | 30 |
 | [Jack goes to rapture](https://www.hackerrank.com/challenges/three-month-preparation-kit-jack-goes-to-rapture/problem) | 100 |
 | [Jenny's subtrees](https://www.hackerrank.com/challenges/jenny-subtrees/problem) | 66 |
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
