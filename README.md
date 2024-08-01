@@ -40,6 +40,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
 | [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | 5 |
+| [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | 5 |
 | [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 50 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Dynamic array](https://www.hackerrank.com/challenges/dynamic-array/problem) | 15 |
@@ -49,6 +50,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | 30 |
 | [Find maximum index product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem) | 100 |
+| [Find merge point of two lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) | 5 |
 | [Find the median](https://www.hackerrank.com/challenges/find-the-median/problem) | 35 |
 | [Find the running median](https://www.hackerrank.com/challenges/three-month-preparation-kit-find-the-running-median/problem) | 100 |
 | [Floyd: City of blinding lights](https://www.hackerrank.com/challenges/three-month-preparation-kit-floyd-city-of-blinding-lights/problem) | 100 |
@@ -59,6 +61,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Game of two stacks](https://www.hackerrank.com/challenges/game-of-two-stacks/problem) | 30 |
 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones/problem) | 20 |
 | [Gena playing hanoi](https://www.hackerrank.com/challenges/three-month-preparation-kit-gena/problem) | 100 |
+| [Get node value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem) | 5 |
 | [Gridland metro](https://www.hackerrank.com/challenges/gridland-metro/problem) | 25 |
 | [Hackerland radio transmitters](https://www.hackerrank.com/challenges/three-month-preparation-kit-hackerland-radio-transmitters/problem) | 100 |
 | [Happy ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs/problem) | 30 |
@@ -68,6 +71,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Insert a node at a specific position in linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | 5 |
 | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | 5 |
 | [Insert a node at the tail of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | 5 |
+| [Insert a node into a sorted doubly linked list](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem) | 5 |
 | [Insertion sort advanced analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) | 50 |
 | [Insertion sort - part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | 30 |
 | [Insertion sort - part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | 30 |
