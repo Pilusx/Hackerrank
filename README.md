@@ -24,6 +24,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
 | [Binary search tree: insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | 20 |
 | [Binary search tree: lowerst common ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | 30 |
+| [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 |
 | [Caesar cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | 15 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
@@ -104,6 +105,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Marc's cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) | 15 |
 | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | 5 |
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
+| [Mini-max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 |
 | [Minimum absolute difference in an array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | 15 |
 | [Minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) | 80 |
 | [Minimum loss 1](https://www.hackerrank.com/challenges/three-month-preparation-kit-minimum-loss/problem) | 100 |
@@ -117,6 +119,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Palindrome index](https://www.hackerrank.com/challenges/palindrome-index/problem) | 25 |
 | [Palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem) | 80 |
 | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | 20 |
+| [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 |
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem) | 60 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
@@ -144,6 +147,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 |
 | [Sparse arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | 25 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
+| [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 |
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
 | [String construction](https://www.hackerrank.com/challenges/string-construction/problem) | 25 |
 | [Strong password](https://www.hackerrank.com/challenges/strong-password/problem) | 15 |
@@ -157,6 +161,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |
 | [The strange function](https://www.hackerrank.com/challenges/the-strange-function/problem) | 15 | 
 | [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | 25 |
+| [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 |
 | [Tree: height of a binary tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | 10 |
 | [Tree: huffman decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) | 20 |
 | [Tree: level order traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | 20 |
