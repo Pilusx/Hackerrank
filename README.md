@@ -152,6 +152,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [The strange function](https://www.hackerrank.com/challenges/the-strange-function/problem) | 15 | 
 | [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | 25 |
 | [Tree: height of a binary tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | 10 |
+| [Tree: huffman decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) | 20 |
 | [Tree: level order traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | 20 |
 | [Tree: inorder traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem) | 10 |
 | [Tree: preorder traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem) | 10 |
