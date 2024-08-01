@@ -135,6 +135,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Sherlock and the valid string](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | 35 |
 | [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 100 |
 | [Simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | 65 |
+| [Sparse arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | 25 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
 | [String construction](https://www.hackerrank.com/challenges/string-construction/problem) | 25 |
