@@ -7,8 +7,9 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Absolute permutation](https://www.hackerrank.com/challenges/absolute-permutation/problem) | 40 |
 | [Almost sorted](https://www.hackerrank.com/challenges/almost-sorted/problem) | 50 |
 | [Alternating characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | 20 |
-| [Anagram](https://www.hackerrank.com/challenges/anagram/problem) | 25 | 
+| [Anagram](https://www.hackerrank.com/challenges/anagram/problem) | 25 |
 | [And xor or](https://www.hackerrank.com/challenges/and-xor-or/problem) | 70 |
+| [Angry professor](https://www.hackerrank.com/challenges/angry-professor/problem) | 20 |
 | [Apple and orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | 10 |
 | [Array and simple queries](https://www.hackerrank.com/challenges/array-and-simple-queries/problem) | 80 |
 | [Array manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 |
@@ -19,6 +20,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) | 50 |
 | [Beautiful binary string](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | 20 |
+| [Beautiful days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | 15 |
 | [Beautiful quadruples](https://www.hackerrank.com/challenges/xor-quadruples/problem) | 50 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
 | [Between two sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | 10 |
@@ -34,6 +36,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | 15 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
 | [Chief hopper](https://www.hackerrank.com/challenges/three-month-preparation-kit-chief-hopper/problem) | 100 |
+| [Circular array rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem) | 20 |
 | [Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | 20 |
 | [Closest numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | 35 |
 | [Common child](https://www.hackerrank.com/challenges/three-month-preparation-kit-common-child/problem) | 100 |
@@ -53,6 +56,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | 15 |
 | [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | 5 |
 | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | 5 |
+| [Designer pdf viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | 20 |
 | [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 50 |
 | [Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
@@ -64,6 +68,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Ema's supercomputer](https://www.hackerrank.com/challenges/two-pluses/problem) | 40 |
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | 30 |
+| [Find digits](https://www.hackerrank.com/challenges/find-digits/problem) | 25 |
 | [Find maximum index product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem) | 100 |
 | [Find merge point of two lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) | 5 |
 | [Find the median](https://www.hackerrank.com/challenges/find-the-median/problem) | 35 |
@@ -97,6 +102,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Jesse and cookies](https://www.hackerrank.com/challenges/three-month-preparation-kit-jesse-and-cookies/problem) | 100 |
 | [Jim and the skyscrapers](https://www.hackerrank.com/challenges/jim-and-the-skyscrapers/problem) | 60 |
 | [Journey to the moon](https://www.hackerrank.com/challenges/three-month-preparation-kit-journey-to-the-moon/problem) | 100 |
+| [Jumping on the clouds: revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | 15 |
 | [Kindergarten adventrues](https://www.hackerrank.com/challenges/kindergarten-adventures/problem) | 30 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
 | [Kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem) | 80 |
@@ -147,9 +153,11 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Quick sort 1 - partition](https://www.hackerrank.com/challenges/quicksort1/problem) | 10 |
 | [Roads and libraries](https://www.hackerrank.com/challenges/three-month-preparation-kit-torque-and-development/problem) | 100 |
 | [Sales by match](https://www.hackerrank.com/challenges/sock-merchant/problem) | 10 |
+| [Save the prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem) | 15 |
 | [Self balancing tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem) | 50 |
 | [Self driving bus](https://www.hackerrank.com/challenges/self-driving-bus/problem) | 52 |
 | [Separate the numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | 20 |
+| [Sequence equation](https://www.hackerrank.com/challenges/permutation-equation/problem) | 20 |
 | [Service lane](https://www.hackerrank.com/challenges/service-lane/problem) | 20 |
 | [Sherlock and anagrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-anagrams/problem) | 100 |
 | [Sherlock and array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | 40 |
@@ -189,6 +197,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Two two](https://www.hackerrank.com/challenges/two-two/problem) | 150 |
 | [Two strings](https://www.hackerrank.com/challenges/two-strings/problem) | 25 |
 | [Unique colors](https://www.hackerrank.com/challenges/unique-colors/problem) | 7 |
+| [Utopian tree](https://www.hackerrank.com/challenges/utopian-tree/problem) | 20 |
 | [Waiter](https://www.hackerrank.com/challenges/three-month-preparation-kit-waiter/problem) | 100 |
 | [Weighted uniform strings](https://www.hackerrank.com/challenges/three-month-preparation-kit-weighted-uniform-string/problem) | 100 |
 | [Viral advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | 15 |
