@@ -13,6 +13,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Array manipulation](https://www.hackerrank.com/challenges/crush/problem) | 60 |
 | [Array pairs](https://www.hackerrank.com/challenges/array-pairs/problem) | 100 |
 | [Arrays - ds](https://www.hackerrank.com/challenges/arrays-ds/problem) | 10 |
+| [A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | 10 |
 | [Balanced brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | 25 |
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) | 50 |
@@ -30,6 +31,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | 20 |
 | [Closest numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | 35 |
 | [Common child](https://www.hackerrank.com/challenges/three-month-preparation-kit-common-child/problem) | 100 |
+| [Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 10 |
 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | 5 |
 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph/problem) | 50 |
 | [Connected cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) | 50 |
@@ -45,6 +47,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | 5 |
 | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | 5 |
 | [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 50 |
+| [Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Dynamic array](https://www.hackerrank.com/challenges/dynamic-array/problem) | 15 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
@@ -136,7 +139,9 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Sherlock and array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | 40 |
 | [Sherlock and the valid string](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | 35 |
 | [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 100 |
+| [Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | 10 |
 | [Simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | 65 |
+| [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 |
 | [Sparse arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | 25 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
 | [Stock maximize](https://www.hackerrank.com/challenges/three-month-preparation-kit-stockmax/problem) | 100 |
