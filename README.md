@@ -24,12 +24,14 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Between two sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | 10 |
 | [Bigger is greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem) | 35 |
 | [Big sorting](https://www.hackerrank.com/challenges/big-sorting/problem) | 20 |
+| [Bill division](https://www.hackerrank.com/challenges/bon-appetit/problem) | 10 |
 | [Binary search tree: insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | 20 |
 | [Binary search tree: lowerst common ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | 30 |
 | [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 |
 | [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | 10 |
 | [Caesar cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | 15 |
 | [Camel case 4](https://www.hackerrank.com/challenges/three-month-preparation-kit-camel-case/problem) | 100 |
+| [Cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | 15 |
 | [Castle on the grid](https://www.hackerrank.com/challenges/three-month-preparation-kit-castle-on-the-grid/problem) | 100 |
 | [Chief hopper](https://www.hackerrank.com/challenges/three-month-preparation-kit-chief-hopper/problem) | 100 |
 | [Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | 20 |
@@ -48,12 +50,14 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
 | [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | 5 |
+| [Day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | 15 |
 | [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | 5 |
 | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem) | 5 |
 | [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 50 |
 | [Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | 10 |
+| [Drawing book](https://www.hackerrank.com/challenges/drawing-book/problem) | 10 |
 | [Dynamic array](https://www.hackerrank.com/challenges/dynamic-array/problem) | 15 |
 | [Down to zero II](https://www.hackerrank.com/challenges/down-to-zero-ii/problem) | 40 |
 | [Electronics shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 15 |
@@ -110,6 +114,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Marc's cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) | 15 |
 | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | 5 |
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
+| [Migratory birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | 10 |
 | [Mini-max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 |
 | [Minimum absolute difference in an array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | 15 |
 | [Minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) | 80 |
@@ -125,6 +130,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Palindrome index](https://www.hackerrank.com/challenges/palindrome-index/problem) | 25 |
 | [Palindromic subsets](https://www.hackerrank.com/challenges/palindromic-subsets/problem) | 80 |
 | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem) | 20 |
+| [Picking numbers](https://www.hackerrank.com/challenges/picking-numbers/problem) | 20 |
 | [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 |
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem) | 60 |
@@ -140,6 +146,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Queue using two stacks](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks/problem) | 100 |
 | [Quick sort 1 - partition](https://www.hackerrank.com/challenges/quicksort1/problem) | 10 |
 | [Roads and libraries](https://www.hackerrank.com/challenges/three-month-preparation-kit-torque-and-development/problem) | 100 |
+| [Sales by match](https://www.hackerrank.com/challenges/sock-merchant/problem) | 10 |
 | [Self balancing tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem) | 50 |
 | [Self driving bus](https://www.hackerrank.com/challenges/self-driving-bus/problem) | 52 |
 | [Separate the numbers](https://www.hackerrank.com/challenges/separate-the-numbers/problem) | 20 |
@@ -164,6 +171,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [The coin change problem](https://www.hackerrank.com/challenges/three-month-preparation-kit-coin-change/problem) | 100 |
 | [The full counting sort](https://www.hackerrank.com/challenges/countingsort4/problem) | 40 |
 | [The grid search](https://www.hackerrank.com/challenges/the-grid-search/problem) | 30 |
+| [The hurdle race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | 15 |
 | [The love letter mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | 20 |
 | [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |
 | [The strange function](https://www.hackerrank.com/challenges/the-strange-function/problem) | 15 | 
