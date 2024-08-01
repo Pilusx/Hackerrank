@@ -28,6 +28,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Climbing the leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | 20 |
 | [Closest numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | 35 |
 | [Common child](https://www.hackerrank.com/challenges/three-month-preparation-kit-common-child/problem) | 100 |
+| [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) | 5 |
 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph/problem) | 50 |
 | [Connected cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem) | 50 |
 | [Contacts](https://www.hackerrank.com/challenges/three-month-preparation-kit-contacts/problem) | 100 |
@@ -90,6 +91,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Maximum palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | 40 |
 | [Median updates](https://www.hackerrank.com/challenges/median/problem) | 70 |
 | [Marc's cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) | 15 |
+| [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | 5 |
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
 | [Minimum absolute difference in an array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | 15 |
 | [Minimum average waiting time](https://www.hackerrank.com/challenges/minimum-average-waiting-time/problem) | 80 |
@@ -107,7 +109,9 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Poisonous plants](https://www.hackerrank.com/challenges/poisonous-plants/problem) | 70 |
 | [Polynomial division](https://www.hackerrank.com/challenges/polynomial-division/problem) | 60 |
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
+| [Print in reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | 5 |
 | [Print the elements of a linked list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | 5 |
+| [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | 5 |
 | [Running time of algorithms](https://www.hackerrank.com/challenges/runningtime/problem) | 30 |
 | [Queen's attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem) | 30 |
 | [Queries with fixed length](https://www.hackerrank.com/challenges/three-month-preparation-kit-queries-with-fixed-length/problem) | 100 |
