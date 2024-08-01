@@ -38,6 +38,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?) | 15 |
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
+| [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | 5 |
 | [Determining DNA health](https://www.hackerrank.com/challenges/determining-dna-health/problem) | 50 |
 | [Direct connections](https://www.hackerrank.com/challenges/direct-connections/problem) | 60 |
 | [Dynamic array](https://www.hackerrank.com/challenges/dynamic-array/problem) | 15 |
@@ -63,6 +64,9 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Hackerrank in a string](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem) | 20 |
 | [Highest value palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-richie-rich/problem) | 100 |
 | [Ice cream parlor](https://www.hackerrank.com/challenges/three-month-preparation-kit-icecream-parlor/problem) | 100 |
+| [Insert a node at a specific position in linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | 5 |
+| [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | 5 |
+| [Insert a node at the tail of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | 5 |
 | [Insertion sort advanced analysis](https://www.hackerrank.com/challenges/insertion-sort/problem) | 50 |
 | [Insertion sort - part 1](https://www.hackerrank.com/challenges/insertionsort1/problem) | 30 |
 | [Insertion sort - part 2](https://www.hackerrank.com/challenges/insertionsort2/problem) | 30 |
