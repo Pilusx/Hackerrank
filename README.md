@@ -59,6 +59,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Count luck](https://www.hackerrank.com/challenges/count-luck/problem) | 50 |
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
+| [Cut the tree](https://www.hackerrank.com/challenges/cut-the-tree/problem) | 50 |
 | [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | 5 |
 | [Day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | 15 |
 | [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | 5 |
