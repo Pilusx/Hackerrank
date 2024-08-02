@@ -146,6 +146,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Modified kaprekar numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem) | 30 |
 | [Morgan and a string](https://www.hackerrank.com/challenges/morgan-and-a-string/problem) | 100 |
 | [Mr. X and his shots](https://www.hackerrank.com/challenges/x-and-his-shots/problem) | 50 |
+| [New year chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem) | 40 |
 | [Non-divisible subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | 20 |
 | [No prefix set](https://www.hackerrank.com/challenges/one-week-preparation-kit-no-prefix-set/problem) | 100 |
 | [Number line jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | 10 |
