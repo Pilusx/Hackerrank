@@ -56,6 +56,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Counting sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | 30 |
 | [Counting sort 2](https://www.hackerrank.com/challenges/countingsort2/problem) | 30 |
 | [Counting valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?) | 15 |
+| [Count luck](https://www.hackerrank.com/challenges/count-luck/problem) | 50 |
 | [Cube summation](https://www.hackerrank.com/challenges/three-month-preparation-kit-cube-summation/problem) | 100 |
 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem) | 25 |
 | [Cycle detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem) | 5 |
