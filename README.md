@@ -120,6 +120,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Jumping on the clouds: revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | 15 |
 | [Kindergarten adventrues](https://www.hackerrank.com/challenges/kindergarten-adventures/problem) | 30 |
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
+| [Kruskal (MST): Really special subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | 50 |
 | [Kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem) | 80 |
 | [Largest rectangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-largest-rectangle/problem) | 100 |
 | [Larry's array](https://www.hackerrank.com/challenges/larrys-array/problem) | 40 |
