@@ -32,6 +32,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Binary search tree: insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem) | 20 |
 | [Binary search tree: lowerst common ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | 30 |
 | [Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 |
+| [Breadth first search: shortest reach](https://www.hackerrank.com/challenges/bfsshortreach/problem?) | 55 |
 | [Breaking the records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | 10 |
 | [Caesar cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | 15 |
 | [Camel case](https://www.hackerrank.com/challenges/camelcase/problem) | 15 |
