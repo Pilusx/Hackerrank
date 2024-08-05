@@ -78,6 +78,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Equalize the array](https://www.hackerrank.com/challenges/equality-in-a-array/problem) | 20 |
 | [Equal stacks](https://www.hackerrank.com/challenges/three-month-preparation-kit-equal-stacks/problem) | 100 |
 | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | 30 |
+| [Even tree](https://www.hackerrank.com/challenges/even-tree/problem) | 50 |
 | [Fair rations](https://www.hackerrank.com/challenges/fair-rations/problem) | 25 |
 | [Find digits](https://www.hackerrank.com/challenges/find-digits/problem) | 25 |
 | [Find maximum index product](https://www.hackerrank.com/challenges/find-maximum-index-product/problem) | 100 |
