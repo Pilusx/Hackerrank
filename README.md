@@ -190,6 +190,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 100 |
 | [Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | 10 |
 | [Simple text editor](https://www.hackerrank.com/challenges/simple-text-editor/problem) | 65 |
+| [Snakes and ladders: the quickest way up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) | 50 |
 | [Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem) | 1 |
 | [Sparse arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem) | 25 |
 | [Square-ten tree](https://www.hackerrank.com/challenges/square-ten-tree/problem) | 60 |
