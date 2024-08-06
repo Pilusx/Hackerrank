@@ -210,6 +210,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [The hurdle race](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | 15 |
 | [The love letter mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem) | 20 |
 | [The maximum subarray](https://www.hackerrank.com/challenges/three-month-preparation-kit-maxsubarray/problem) | 100 |
+| [The story of a tree](https://www.hackerrank.com/challenges/the-story-of-a-tree/problem) | 50 |
 | [The strange function](https://www.hackerrank.com/challenges/the-strange-function/problem) | 15 | 
 | [The time in words](https://www.hackerrank.com/challenges/the-time-in-words/problem) | 25 |
 | [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 15 |
