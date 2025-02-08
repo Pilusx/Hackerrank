@@ -138,6 +138,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Maximum palindromes](https://www.hackerrank.com/challenges/maximum-palindromes/problem) | 40 |
 | [Median updates](https://www.hackerrank.com/challenges/median/problem) | 70 |
 | [Marc's cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) | 15 |
+| [Maximum perimeter triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem) | 20 |
 | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem) | 5 |
 | [Merging communities](https://www.hackerrank.com/challenges/three-month-preparation-kit-merging-communities/problem) | 100 |
 | [Migratory birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | 10 |
