@@ -129,6 +129,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Library fine](https://www.hackerrank.com/challenges/library-fine/problem) | 15 |
 | [Lily's homework](https://www.hackerrank.com/challenges/three-month-preparation-kit-lilys-homework/problem) | 100 |
 | [Lisa's workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem) | 25 |
+| [Luck balance](https://www.hackerrank.com/challenges/luck-balance/problem) | 20 |
 | [Making anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | 30 |
 | [Manasa and stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | 30 |
 | [Mars exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | 15 |
