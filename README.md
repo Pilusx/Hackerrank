@@ -22,6 +22,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Balanced forest](https://www.hackerrank.com/challenges/balanced-forest/problem) | 18 |
 | [Bear and steady gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem) | 50 |
 | [Beautiful binary string](https://www.hackerrank.com/challenges/beautiful-binary-string/problem) | 20 |
+| [Beautiful pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem) | 30 |
 | [Beautiful days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | 15 |
 | [Beautiful quadruples](https://www.hackerrank.com/challenges/xor-quadruples/problem) | 50 |
 | [Beautiful triplets](https://www.hackerrank.com/challenges/beautiful-triplets/problem) | 20 |
