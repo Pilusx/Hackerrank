@@ -189,6 +189,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Sherlock and anagrams](https://www.hackerrank.com/challenges/three-month-preparation-kit-sherlock-and-anagrams/problem) | 100 |
 | [Sherlock and array](https://www.hackerrank.com/challenges/sherlock-and-array/problem) | 40 |
 | [Sherlock and squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem) | 20 |
+| [Sherlock and the beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem) | 30 |
 | [Sherlock and the valid string](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) | 35 |
 | [Short palindrome](https://www.hackerrank.com/challenges/three-month-preparation-kit-short-palindrome/problem) | 100 |
 | [Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | 10 |
