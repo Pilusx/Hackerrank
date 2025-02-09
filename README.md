@@ -124,6 +124,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Kitty's calculation on a tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?) | 52 |
 | [Kruskal (MST): Really special subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) | 50 |
 | [Kundu and tree](https://www.hackerrank.com/challenges/kundu-and-tree/problem) | 80 |
+| [Largest permutation](https://www.hackerrank.com/challenges/largest-permutation/problem) | 30 |
 | [Largest rectangle](https://www.hackerrank.com/challenges/three-month-preparation-kit-largest-rectangle/problem) | 100 |
 | [Larry's array](https://www.hackerrank.com/challenges/larrys-array/problem) | 40 |
 | [Left rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | 20 |
