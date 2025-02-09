@@ -168,6 +168,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Prim's (MST): Special subtree](https://www.hackerrank.com/challenges/three-month-preparation-kit-primsmstsub/problem) | 100 |
 | [Print in reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | 5 |
 | [Print the elements of a linked list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | 5 |
+| [Priyanka and toys](https://www.hackerrank.com/challenges/priyanka-and-toys/problem) | 30 |
 | [Red knight's shortest path](https://www.hackerrank.com/challenges/red-knights-shortest-path/problem) | 60 |
 | [Repeated string](https://www.hackerrank.com/challenges/repeated-string/problem) | 20 |
 | [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | 5 |
