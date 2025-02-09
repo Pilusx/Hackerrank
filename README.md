@@ -134,6 +134,7 @@ This is a repository containing my solutions to Hackerrank problems.
 | [Luck balance](https://www.hackerrank.com/challenges/luck-balance/problem) | 20 |
 | [Making anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem) | 30 |
 | [Manasa and stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) | 30 |
+| [Mark and toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | 35 |
 | [Mars exploration](https://www.hackerrank.com/challenges/mars-exploration/problem) | 15 |
 | [Matrix layer rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) | 80 |
 | [Maximum element](https://www.hackerrank.com/challenges/maximum-element/problem) | 20 |
